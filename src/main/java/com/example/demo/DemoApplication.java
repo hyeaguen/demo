@@ -27,5 +27,8 @@ public String getStatus() {
 public String getStatus() {
     return "Application is running1";
 }
+public String getA() {
+    return "B";
+}
 
 
